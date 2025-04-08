@@ -1,7 +1,7 @@
 [
     {
         "domain": ".scribd.com",
-        "expirationDate": 1775829352.980237,
+        "expirationDate": 1778710040.489717,
         "hostOnly": false,
         "httpOnly": true,
         "name": "_scribd_session",
@@ -10,11 +10,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "UGhrR1ZSZTV5K29OQXppQzhKM05aSkd0OGpKV280eCs0bDJPQVNUMnBBRlEvcHIwZnFLS3I5K1poWDRBOEhDMEdwOVA1Tnd5UU52SzlYK3pnaXdSN2haNlJ2TWFFYVYyWTJGRDlTVnNaTWNFazc3aTh4aEVPODRDV1hDbUIxQjdHb0sxY3VMYmUrcW1aRmVjMmwwVmRRdFJSc2hKS3hsdXVZaXNBcU9RV2RtMC8wTjFPWE8xN20zOUR5YzdJVG9vb21iUlFvMUE0aTREc2tKTEJMbXRzRnNSYVNTUWtUY2gvYitzczNJZ3NHL2FwdVRVV2NvWGh4Y1BsQkZHUnF4ZDlNMWlnWXc4ZmhhdnIwSXJTeGordm5hSUFQbjJBc3h4SURLQjNDczBCcGc5U2dHMGwrWVltcFYxYjllMCtFQnd4V1ZGWVlYblRpQXR1SEdUWWVtVGpGL09aY09Yck1JN2oxWEZadEozMzZqWnRCTW42b1lENUJZNzJic3BWK2JWWFptVzRhMmtYaHpiZGZMZDB1akRZbmdXaWs0eng0MUJRY1RhYTZLK21mSWtnak1QbmxjVmVsNExDRkpPeVd6QyttZ25UZWVHeTltMDQwcU56SlJYYmc9PS0tUk5QY0hDSmtGOG91Q3BmWUM3U0lLdz09--c80194c7bb04b736f33953a1d9c709387cc3aea3"
+        "value": "ZGtXVTBVUFVDcnNZMWtBUC9lbkNNbDRxN0oybWRtakFwMXI5RGJxQVJtcmRFK3pYcjBwYzdXcXBZenVNTDNneTVIc3lMem5PcktWZTRyenJjakN6cG10dU9WdUdlWms4ZExvM2NhMmNiRExwT3lBWFYyaThzMm1GMjZoRDJIQUFYTGZ0Ri81RGJXRzQ1SkhWeGVEaHVoZFlabnhnUGhWVW1MdmdaK3ZSUWt4Z09kSEhCRDBjVTZEM3ZzSE8rZjFnZzc2NUYza3pHWDBaK0toNFplbDdTazBaN0czdFVyOTNucFgySTl1aTh2a2F6SG5xOGVRWDJ2Q3BYRzVIYVBPSnc3TXVKQ002UEh5WUQ0QjJtd1o1ZzZFckxOTk10T2VWdDNVRFpyd3puby9oNjBJNmxza1cvTDJhNnFXYmJDbWV1V2o1THdBWDY0SEpCb0o0U25BSUJNVmsxUVpIWVZpZUpqUmtSQVhadUZ1WTZUdEZ4UWtBd2RhN1N6TGpSbGdHVTZWazc1WlZKUXFYRitvaXkvakV3ekh3NDdIdHI4dTJQRXdlRzJERUFtZTgzNXUyZE5BZDJFOFB3RzBDVEpMd2dZNk4vN2VFeVM1WS83Z0NxM3dqWlE9PS0tYnJBR1ZZWDhweWVTMExnb2djZlhWQT09--b17cf61a72a969e244f4c76e3dc25823946123bc"
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1772805340.508025,
+        "expirationDate": 1775686038.492428,
         "hostOnly": false,
         "httpOnly": false,
         "name": "osano_consentmanager_uuid",
@@ -27,7 +27,7 @@
     },
     {
         "domain": "www.scribd.com",
-        "expirationDate": 1741379020,
+        "expirationDate": 1745422277,
         "hostOnly": true,
         "httpOnly": false,
         "name": "_fs_sample_user",
@@ -40,7 +40,7 @@
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1741269646,
+        "expirationDate": 1744150342,
         "hostOnly": false,
         "httpOnly": false,
         "name": "t-ip",
@@ -53,7 +53,20 @@
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1741269406,
+        "expirationDate": 1775683760,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__zlcmid",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1R4nWfXFf7wNjZa"
+    },
+    {
+        "domain": ".scribd.com",
+        "expirationDate": 1744150101,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_dc_gtm_UA-443684-29",
@@ -66,7 +79,7 @@
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1775829346.636201,
+        "expirationDate": 1778710041.935602,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga",
@@ -79,7 +92,7 @@
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1749045349,
+        "expirationDate": 1751926042,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_rdt_uuid",
@@ -100,7 +113,7 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "1741269346419%7C0%7C1741269346419%7C%7C"
+        "value": "1744150043667%7C0%7C1744150043667%7C%7C"
     },
     {
         "domain": ".scribd.com",
@@ -116,7 +129,20 @@
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1741355746,
+        "expirationDate": 1777846043,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ttcsid",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1744150043018.2.1744150043018"
+    },
+    {
+        "domain": ".scribd.com",
+        "expirationDate": 1744236442,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_uetsid",
@@ -125,7 +151,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "912ffdd0fa8b11efa54c798b5ac6a2f9"
+        "value": "667f09b014c011f0b4e5251df00ec03a"
     },
     {
         "domain": ".scribd.com",
@@ -142,7 +168,7 @@
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1775829346.906991,
+        "expirationDate": 1778710042.833635,
         "hostOnly": false,
         "httpOnly": false,
         "name": "tatari-session-cookie",
@@ -164,6 +190,19 @@
         "session": true,
         "storeId": null,
         "value": "true"
+    },
+    {
+        "domain": ".scribd.com",
+        "expirationDate": 1778707876.229977,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__CJ_nwt",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "%7B%22nw2868%22%3A7327%2C%22nw2624%22%3A6648%7D"
     },
     {
         "domain": "www.scribd.com",
@@ -193,7 +232,7 @@
     },
     {
         "domain": ".www.scribd.com",
-        "expirationDate": 1772805354,
+        "expirationDate": 1775686046,
         "hostOnly": false,
         "httpOnly": false,
         "name": "__stripe_mid",
@@ -206,7 +245,7 @@
     },
     {
         "domain": ".www.scribd.com",
-        "expirationDate": 1741271154,
+        "expirationDate": 1744151846,
         "hostOnly": false,
         "httpOnly": false,
         "name": "__stripe_sid",
@@ -215,11 +254,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "40d47aa0-b2b0-45b2-a53a-37add410d46a26e84a"
+        "value": "ed371890-846b-44d6-acd5-9ff85dfaf1050015cd"
     },
     {
         "domain": "www.scribd.com",
-        "expirationDate": 1741270292,
+        "expirationDate": 1744150961,
         "hostOnly": true,
         "httpOnly": false,
         "name": "_dd_s",
@@ -228,11 +267,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "rum=0&expire=1741270258109"
+        "value": "rum=2&id=5ebab174-5162-4dfd-85c7-976c40c7cc34&created=1744150039423&expire=1744150950075"
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1775829346.627984,
+        "expirationDate": 1778710041.933827,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_8KZ8BV0P5W",
@@ -241,11 +280,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GS1.1.1741269346.1.0.1741269346.60.0.0"
+        "value": "GS1.1.1744150041.6.0.1744150041.60.0.0"
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1775829345.229423,
+        "expirationDate": 1778710041.625594,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_Z4ZC50DED6",
@@ -254,11 +293,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GS1.1.1741269345.1.0.1741269345.60.0.0"
+        "value": "GS1.1.1744150041.6.0.1744150041.60.0.0"
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1741269406,
+        "expirationDate": 1744150101,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_gat",
@@ -271,7 +310,7 @@
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1749045340,
+        "expirationDate": 1749045341,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_gcl_au",
@@ -284,7 +323,7 @@
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1741355746,
+        "expirationDate": 1744236441,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_gid",
@@ -293,11 +332,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GA1.2.976321238.1741269346"
+        "value": "GA1.2.1633483221.1744147702"
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1775829336.094472,
+        "expirationDate": 1778710034.663995,
         "hostOnly": false,
         "httpOnly": true,
         "name": "_scribd_user_id",
@@ -306,11 +345,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "ODQ0MTEzMzc5--0286909e3d4fc7145ba0c534ad56db78e9b15207"
+        "value": "ODUyMzg0MDI0--08387ae9c69c42dc497606ea618c51905dc2e147"
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1774965347,
+        "expirationDate": 1777846042,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_tt_enable_cookie",
@@ -323,7 +362,7 @@
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1774965347,
+        "expirationDate": 1777846042,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ttp",
@@ -336,7 +375,7 @@
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1774965346,
+        "expirationDate": 1777846042,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_uetvid",
@@ -349,7 +388,7 @@
     },
     {
         "domain": ".scribd.com",
-        "expirationDate": 1772805340.5096,
+        "expirationDate": 1775686038.49328,
         "hostOnly": false,
         "httpOnly": false,
         "name": "osano_consentmanager",
@@ -358,11 +397,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "mwcZ33nX8XZuNUv60IU7QOOpOaCyueETJ8lUs7wz1__xFTMvw7zro5MkT3F1Hdq3jPdmqI8uJpYdLVm2SXQoRns3YXelA0zRDH87bc0zggX_u7b2KrV_TU_sVAJhDr0Ujsp8jukkbxOySNXdsFlwfNvCOih4T5svEyxBtoZTQBVAsv9mWV_wQDhQZxNc7vex-dWM-q1EIMi68sbxjdLzkETyVMUdop1jPxpUNvYO2Zgu4UQ-gXOLAo3yNqdxcbBnlswpM8BJIUT2Mk8h8w8msUMApHyBh-s4_bDFNhVOD3GHym5kzWQn09YsOTWMKTCxNx9iwB6goBax2XEZORC-iL5K1p8232TbT0RIsZPS-yDhoyS9o5q6PV2Sub5z69hi0ynXT8St08AOdyXvgkHA33HrhuWy18oyGSCwOthwOrzEk0wyRPccXkoPE_NhIK2kUeDTnKZQ5SOe7w9rGmiuobH0O-Tm81iHOAeAW5uhIuHdKXde6iiC0c26OfXr5cceUS2l6a6I9RXU7pOHY5jQI00QynnL_2Oqj64QmiHBgEJtFESQBWHfDcxbqwCMFdFfAx3Ur07c0tzcVoHQeXAb1oy4F1l5urI8"
+        "value": "PlVE2KQXimVkVbYMzT1G3WsLb3qcR918hVkrAVswbntS8ctQY6E9dYh070XBNKMbkMHVSQIYD6OA1aKvmbPxe9YC0gLh61vK9QhVYQ98bJLTggEsvY4ZQexcg9NQW-6hnLs1GurV_CAE8FdLLdqg0QUvq2l_54FLTmn072Z62l7djDBVmAdfhk0KVCsEr82OJb-BXG6jKdupO8IR0OKHxN08wUdLFI0FvgXu77Zm4Iyu13QuDWfFAixKKu5SP_HpglDWJKWR2yCmwLI8FzXbfMD67by8Sj_u4enTKS8M3izsaxTYyOuS9xYLqBlaO0eKsqhdVY4bUqLWNZR3tDw12XI0G6SQ-CCFRoz-JYY-Yt235h838YI-XWEg9w6R9vhxpMmu5Qbzif2xYRQCBBiV_a82lNOTwhq7t-p1pjRJ91ha1U0h9upE2HiSlgx1SuZPLEwgso1eJQTymqI70JGvzVmZpUQAoG4xCfeuOBfIjEqvRfTXBkawxUA5neQsFDl-LF6P_F5qAhkabj7eu8LqkEo358-wVi_bQU4eytZK3EKTaL6B5BZHbldXjxa7pViu6GaO717z1aAnyXg9M1wemSsE7Y-wvx3IZMfOXWAKmHqXAYnsV3Rs0eKOflpm7zfoUr3OPjOF5PuE8JuR7DpY7IerCbvZSXIuY5WPdeeXglImOo1obz8SDPBB4cXdmrR00ZicMxgZlOHK_kREI31Pg5IqFvn9g_W8FcOiZyGch7ozuV6i4nnQlzIbsaA2BRUUlA9uH_JBSf9pvE6y3UwwW5HH-C95T-ZbD3wbqPASVW1kg20Q9x2S5FC1LmTMWNuXRAEXg72QARmboYdfUPK4sBwr8T8="
     },
     {
         "domain": "www.scribd.com",
-        "expirationDate": 1775829346.83536,
+        "expirationDate": 1778710042.778186,
         "hostOnly": true,
         "httpOnly": false,
         "name": "tatari-cookie-test",
@@ -371,6 +410,19 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "55100847"
+        "value": "3198667"
+    },
+    {
+        "domain": ".scribd.com",
+        "expirationDate": 1777846046,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ttcsid_C8LT3611P6OF1JAH7LT0",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1744150043016.2.1744150046728"
     }
 ]
